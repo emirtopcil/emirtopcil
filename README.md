@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emirtopcil
+- 👀 I’m interested OOP
+- 🌱 I’m currently learning c#
+- 💞️ I dont looking anything
+- 📫 You can reach me on mail "nabetoglu@gmail.com"
