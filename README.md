@@ -11,7 +11,7 @@
   </p>
   
   ### About 
-  - I am a Sakarya applied university Computer Programming Student.
+  - I am a Sakarya University of Applied Science  Computer Programming Student.
   - I interested OOP with C# and love web development.
   - I am also learning .net core and api to learn backend technologies and Background Services.
 
