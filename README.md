@@ -11,7 +11,20 @@
   </p>
   
   ### About 
-  Hi there, my name is Emirhan and im Full-stack web developer.
+ 👋 Merhaba, ben Emirhan Topçil!
+
+🚀 ASP.NET Core ile yazılım geliştirme konusunda uzmanlaşmış bir yazılımcıyım. Kariyerim boyunca B2B, B2C, ERP, CRM ve iklimlendirme sistemleri gibi birçok farklı projede yer aldım. Yazılım geliştirme süreçlerinde çözüm odaklı bir yaklaşım sergileyerek hem kullanıcı deneyimi hem de performans açısından fark yaratmaya odaklanıyorum.
+
+🛠️ Yetkinliklerim:
+
+Mimari Tasarım: Katmanlı mimari, mikroservis ve onion mimari ile ölçeklenebilir ve sürdürülebilir çözümler geliştiriyorum.
+Veri Yönetimi: SQL Server, Oracle (PL/SQL) ve PostgreSQL ile güçlü veri tabanı çözümleri sunuyorum.
+Performans Optimizasyonu: Elasticsearch ve Redis kullanarak veri arama ve bellek yönetiminde önemli performans artışları sağladım.
+Kullanıcı Arayüzü: HTML, CSS, JavaScript ve jQuery ile kullanıcı dostu ve işlevsel arayüzler oluşturuyorum.
+💡 İlgi Alanlarım:
+Algoritma geliştirme, optimizasyon ve matematiksel analiz konularına özel bir ilgim var. Daha iyi ve daha hızlı çözümler üretmek için sürekli öğrenmeye ve kendimi geliştirmeye devam ediyorum.
+
+🌱 Her zaman yeni projelere açık olup, ekip çalışması ve yenilikçi yaklaşımlarla projelere değer katmayı hedefliyorum.
 
   ### Tech I use
 
