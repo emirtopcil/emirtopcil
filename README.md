@@ -11,20 +11,20 @@
   </p>
   
   ### About 
- 👋 Merhaba, ben Emirhan Topçil!
+👋 Hello, I'm Emirhan Topçil!
 
-🚀 ASP.NET Core ile yazılım geliştirme konusunda uzmanlaşmış bir yazılımcıyım. Kariyerim boyunca B2B, B2C, ERP, CRM ve iklimlendirme sistemleri gibi birçok farklı projede yer aldım. Yazılım geliştirme süreçlerinde çözüm odaklı bir yaklaşım sergileyerek hem kullanıcı deneyimi hem de performans açısından fark yaratmaya odaklanıyorum.
+🚀 I'm a software developer specializing in ASP.NET Core. Throughout my career, I have worked on various projects such as B2B, B2C, ERP, CRM, and HVAC systems. I focus on delivering solution-oriented approaches to create value in both user experience and performance.
 
-🛠️ Yetkinliklerim:
+🛠️ My Skills:
 
-Mimari Tasarım: Katmanlı mimari, mikroservis ve onion mimari ile ölçeklenebilir ve sürdürülebilir çözümler geliştiriyorum.
-Veri Yönetimi: SQL Server, Oracle (PL/SQL) ve PostgreSQL ile güçlü veri tabanı çözümleri sunuyorum.
-Performans Optimizasyonu: Elasticsearch ve Redis kullanarak veri arama ve bellek yönetiminde önemli performans artışları sağladım.
-Kullanıcı Arayüzü: HTML, CSS, JavaScript ve jQuery ile kullanıcı dostu ve işlevsel arayüzler oluşturuyorum.
-💡 İlgi Alanlarım:
-Algoritma geliştirme, optimizasyon ve matematiksel analiz konularına özel bir ilgim var. Daha iyi ve daha hızlı çözümler üretmek için sürekli öğrenmeye ve kendimi geliştirmeye devam ediyorum.
+Architecture Design: I develop scalable and sustainable solutions using layered architecture, microservices, and onion architecture.
+Database Management: I provide robust database solutions with SQL Server, Oracle (PL/SQL), and PostgreSQL.
+Performance Optimization: I have achieved significant performance improvements in data search and memory management using Elasticsearch and Redis.
+User Interface: I create user-friendly and functional interfaces with HTML, CSS, JavaScript, and jQuery.
+💡 My Interests:
+I have a strong passion for algorithm development, optimization, and mathematical analysis. I am constantly learning and developing myself to create better and faster solutions.
 
-🌱 Her zaman yeni projelere açık olup, ekip çalışması ve yenilikçi yaklaşımlarla projelere değer katmayı hedefliyorum.
+🌱 I am always open to new projects and aim to add value to projects with teamwork and innovative approaches.
 
   ### Tech I use
 
